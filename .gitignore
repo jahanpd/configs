@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+!.gitignore
+
+!.bash_profile
+!.bashrc
+!.bashscii
+!.vimrc
+!.xmonad
+!.config
