@@ -1,11 +1,15 @@
 # ignore everything
-*
+/*
+/*/
 
 !.gitignore
 
 !.bash_profile
 !.bashrc
-!.bashscii
+!/.bashscii/
 !.vimrc
-!.xmonad
-!.config
+!/.xmonad/
+!/.config/alacritty/
+!/.config/xmobar/
+!/.config/nitrogen/
+!/.config/vifm/
